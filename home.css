@@ -1,0 +1,33 @@
+body{
+    background-color:aqua;
+}
+#name-header{
+   padding-left: 45%;
+    
+}
+#name-header:hover{
+    color: blueviolet;
+}
+.about-header{
+    margin-top: 50px;
+    padding-left: 46%;
+    
+}
+.about{
+    display: inline-block;
+    margin-right:50px ;
+}
+.about-link{
+    color: black;
+}
+.projects{
+    display: inline-block;
+    margin-right: 50px;
+}
+.github{
+    display: inline-block;
+}
+a:hover{
+    color: blue;
+}
+
